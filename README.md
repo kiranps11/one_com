@@ -1,5 +1,5 @@
-# one_com
-## question 1:
+# Assignment Details
+## Question 1:
 I have put the ddl and samples records to insert in the sql_questions_answer.sql file.
 
 Testing :
@@ -12,7 +12,7 @@ Testing :
 8|event_8|150
 9|event_9|160
 
-## question 2
+## Question 2
 how to run the python code
  1. Clone the repository
  2. Go to the directry where you have downloaded
